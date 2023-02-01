@@ -1,0 +1,28 @@
+<main class="main">
+	<slot />
+</main>
+
+<style lang="scss" is:global>
+	.main {
+		width: 100%;
+		max-width: 900px;
+		padding: 0 10px;
+		margin: 20px auto 0;
+
+		p {
+			text-align: justify;
+
+			&:not(:first-of-type) {
+				margin-top: 1em;
+			}
+		}
+
+		ul {
+			margin-top: 1em;
+
+			li {
+				margin-top: 0.5em;
+			}
+		}
+	}
+</style>

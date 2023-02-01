@@ -1,0 +1,72 @@
+---
+import { SITE_TITLE } from "../config";
+
+import { HEADER_BACKGROUND, LOGO } from "../assets";
+---
+
+<header class="header">
+	<img
+		class="header__background"
+		src={HEADER_BACKGROUND.src}
+		width={HEADER_BACKGROUND.width}
+		height={HEADER_BACKGROUND.height}
+		alt="header background image"
+	/>
+
+	<div class="header__logo">
+		<img
+			class="header__logo__image"
+			src={LOGO.src}
+			width={LOGO.width}
+			height={LOGO.height}
+			alt={SITE_TITLE}
+		/>
+	</div>
+
+	<h1 class="header__title sr-only">{SITE_TITLE}</h1>
+</header>
+
+<style lang="scss">
+	@use "sass:map";
+	@import "../styles/breakpoints";
+
+	.header {
+		--header-height: 300px;
+
+		width: 100%;
+		height: var(--header-height);
+		overflow: hidden;
+		position: relative;
+
+		border-bottom: 1px solid rgb(0 0 0 / 10%);
+
+		&__background {
+			position: absolute;
+			width: 100%;
+			height: 100%;
+			top: 0;
+
+			object-fit: cover;
+		}
+
+		&__logo {
+			position: relative;
+			width: 100%;
+			height: 100%;
+
+			display: flex;
+			align-items: center;
+			justify-content: center;
+
+			padding: 0 16px;
+		}
+
+		@media screen and (max-width: map.get($breakpoint, "md")) {
+			--header-height: 200px;
+		}
+
+		@media screen and (max-width: map.get($breakpoint, "sm")) {
+			--header-height: 100px;
+		}
+	}
+</style>
