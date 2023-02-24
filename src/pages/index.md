@@ -10,7 +10,7 @@ layout: "../layouts/BasicPage.astro"
 
 Список конкурсов:
 
-- Two Weeks Game 23, 03.02.2023 — ?. Блог конкурса — [23.twoweeks.ru](https://23.twoweeks.ru).
+- Two Weeks Game 23, 03.02.2023 — 19.02.2023. Блог конкурса — [23.twoweeks.ru](https://23.twoweeks.ru).
 
 - Two Weeks Game 22, 01.07.2022 — 17.07.2022. Блог конкурса — [22.twoweeks.ru](https://22.twoweeks.ru).
 
