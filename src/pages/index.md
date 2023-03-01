@@ -14,7 +14,7 @@ layout: "../layouts/BasicPage.astro"
 
 - Two Weeks Game 22, 01.07.2022 — 17.07.2022. Блог конкурса — [22.twoweeks.ru](https://22.twoweeks.ru).
 
-- TWGspring2022, 30.04.2022 — 14.05.2022.
+- TWGspring2022, 30.04.2022 — 14.05.2022. Тред конкурса — [2ch.hk](https://2ch.hk/gd/res/799028.html).
 
 - Two Weeks Game: Underground, 13.08.2022 — 29.08.2021. Блог конкурса — [twg20legitime.blogspot.ru](https://twg20legitime.blogspot.ru).
 
@@ -46,7 +46,7 @@ layout: "../layouts/BasicPage.astro"
 
 - Two Weeks Game 9 (Syndicate Edition), 20.01.17 — 07.02.17. Блог конкурса — [gd-twoweeksgame9.blogspot.ru](https://gd-twoweeksgame9.blogspot.ru/).
 
-- Two Weeks Game 8 (GlowStick Edition), 25.07.16 — 10.08.16.
+- Two Weeks Game 8 (GlowStick Edition), 25.07.16 — 10.08.16. Блог конкурса — [gd-twoweeksgame8.rhcloud.com](https://web.archive.org/web/20170130051321/https://gd-twoweeksgame8.rhcloud.com/) (вебархив).
 
 - Two Weeks Game 8, 25.07.16 — 10.08.16. Блог конкурса — [8.twoweeks.ru](https://8.twoweeks.ru).
 
@@ -54,9 +54,9 @@ layout: "../layouts/BasicPage.astro"
 
 - Two Weeks Game 6, 06.08.15 — 22.08.15. Блог конкурса — [twoweeksgame6.blogspot.ru](https://twoweeksgame6.blogspot.ru).
 
-- Two Weeks Game 5 (Reloaded), 13.01.15 — 29.01.15.
+- Two Weeks Game 5 (Reloaded), 13.01.15 — 29.01.15. Блог конкурса — [twoweeks.ru](https://web.archive.org/web/20150115120457/http://twoweeks.ru/blog/) (вебархив).
 
-- Two Weeks Game 4, 04.08.14 — 18.08.14.
+- Two Weeks Game 4, 04.08.14 — 18.08.14. Страница конкурса — [titanpad.com](https://web.archive.org/web/20170504073742/https://titanpad.com/C9HP1c8Chn) (вебархив).
 
 - Two Weeks Game 3, 24.12.13 — 02.01.14. Блог конкурса — [twoweeksgame3.blogspot.ru](https://twoweeksgame3.blogspot.ru).
 
