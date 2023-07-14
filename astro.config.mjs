@@ -10,4 +10,9 @@ import compress from "astro-compress";
 export default defineConfig({
 	site: 'https://twoweeksgame.ru',
 	integrations: [mdx(), image(), sitemap(), compress()],
+
+	output: 'static',
+	build: {
+		format: 'file'
+	}
 });
