@@ -1,5 +1,5 @@
 ---
-layout: "../layouts/BasicPage.astro"
+layout: '../layouts/BasicPage.astro'
 ---
 
 **Two Weeks Game** (TWG, твг) — конкурс по разработке видеоигр в двухнедельный срок, который проводится на [доске /gd/](https://2ch.hk/gd/) Двача c 2012 года. На текущий момент проведено более 20 конкурсов.
