@@ -4,7 +4,7 @@ import mdx from '@astrojs/mdx';
 import image from '@astrojs/image';
 import sitemap from '@astrojs/sitemap';
 
-import compress from "astro-compress";
+import compress from 'astro-compress';
 
 // https://astro.build/config
 export default defineConfig({
@@ -13,6 +13,6 @@ export default defineConfig({
 
 	output: 'static',
 	build: {
-		format: 'file'
-	}
+		format: 'file',
+	},
 });
