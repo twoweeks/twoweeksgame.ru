@@ -10,7 +10,7 @@ layout: '../layouts/BasicPage.astro'
 
 Список конкурсов:
 
-- Two Weeks Game 25, 26.01.2024 — 09.02.2024. Блог конкурса — [25.twoweeks.ru](https://25.twoweeks.ru).
+- Two Weeks Game 25, 26.01.2024 — 12.02.2024. Блог конкурса — [25.twoweeks.ru](https://25.twoweeks.ru).
 
 - Two Weeks Game 24, 14.07.2023 — 30.07.2023. Блог конкурса — [twg24.blogspot.com](https://twg24.blogspot.com).
 
