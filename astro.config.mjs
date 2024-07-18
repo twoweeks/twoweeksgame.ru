@@ -12,8 +12,4 @@ export default defineConfig({
 	build: {
 		format: 'file',
 	},
-
-	experimental: {
-		assets: true,
-	},
 });
