@@ -10,6 +10,8 @@ layout: '../layouts/BasicPage.astro'
 
 Список конкурсов:
 
+- Two Weeks Game 27, 24.01.2024 — 07.02.2024. Блог конкурса — [27.twoweeks.ru](https://27.twoweeks.ru).
+
 - Two Weeks Game 26, 01.07.2024 — 17.07.2024. Блог конкурса — [twoweeksgame26.blogspot.com](https://twoweeksgame26.blogspot.com).
 
 - Two Weeks Game 25, 26.01.2024 — 12.02.2024. Блог конкурса — [25.twoweeks.ru](https://25.twoweeks.ru).
