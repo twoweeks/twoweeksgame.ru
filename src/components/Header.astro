@@ -26,7 +26,7 @@ import { HEADER_BACKGROUND, LOGO } from '../assets';
 
 <style lang="scss">
 	@use 'sass:map';
-	@import '../styles/breakpoints';
+	@use '../styles/breakpoints';
 
 	.header {
 		--header-height: 300px;
@@ -59,11 +59,11 @@ import { HEADER_BACKGROUND, LOGO } from '../assets';
 			padding: 0 16px;
 		}
 
-		@media screen and (max-width: map.get($breakpoint, 'md')) {
+		@media screen and (max-width: map.get(breakpoints.$breakpoint, 'md')) {
 			--header-height: 200px;
 		}
 
-		@media screen and (max-width: map.get($breakpoint, 'sm')) {
+		@media screen and (max-width: map.get(breakpoints.$breakpoint, 'sm')) {
 			--header-height: 100px;
 		}
 	}

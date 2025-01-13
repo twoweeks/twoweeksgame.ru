@@ -13,11 +13,11 @@
     "prettier": "prettier -w astro.config.mjs src"
   },
   "devDependencies": {
-    "@astrojs/mdx": "3.1.2",
-    "@astrojs/rss": "4.0.7",
-    "@astrojs/sitemap": "3.1.6",
-    "astro": "4.11.6",
-    "prettier": "3.3.3",
-    "sass": "1.77.8"
+    "@astrojs/mdx": "4.0.5",
+    "@astrojs/rss": "4.0.11",
+    "@astrojs/sitemap": "3.2.1",
+    "astro": "5.1.5",
+    "prettier": "3.4.2",
+    "sass": "1.83.1"
   }
 }
