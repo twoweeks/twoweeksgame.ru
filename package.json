@@ -1,5 +1,5 @@
 {
-  "name": "twoweeksgame.ru",
+  "name": "@twoweeks/twoweeksgame.ru",
   "type": "module",
   "version": "0.0.1",
   "private": true,
@@ -13,11 +13,11 @@
     "prettier": "prettier -w astro.config.mjs src"
   },
   "devDependencies": {
-    "@astrojs/mdx": "4.0.5",
-    "@astrojs/rss": "4.0.11",
-    "@astrojs/sitemap": "3.2.1",
-    "astro": "5.1.5",
-    "prettier": "3.4.2",
-    "sass": "1.83.1"
+    "@astrojs/mdx": "4.3.0",
+    "@astrojs/rss": "4.0.12",
+    "@astrojs/sitemap": "3.4.1",
+    "astro": "5.10.2",
+    "prettier": "3.6.2",
+    "sass": "1.89.2"
   }
 }
