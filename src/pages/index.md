@@ -8,11 +8,15 @@ layout: '../layouts/BasicPage.astro'
 
 Отличительной чертой конкурса является то, что он не привязан к конкретному организатору, и его может провести, по сути, кто угодно.
 
+<p class="highlight">Актуальный конкурс — <b>Two Weeks Game Challenge 28</b>, проходящий с 19.07.2025 по 02.08.2025. Блог конкурса размещён на сайте <a href="https://28.twoweeks.ru">28.twoweeks.ru</a>.</p>
+
 Список конкурсов:
+
+- Two Weeks Game Challenge 28, 19.07.2025 — 02.08.2025. Блог конкурса — [28.twoweeks.ru](https://28.twoweeks.ru).
 
 - Two Weeks Game 27, 24.01.2025 — 11.02.2025. Блог конкурса — [27.twoweeks.ru](https://27.twoweeks.ru).
 
-- Two Weeks Game 26, 01.07.2024 — 17.07.2024. Блог конкурса — [twoweeksgame26.blogspot.com](https://twoweeksgame26.blogspot.com).
+- Two Weeks Game Challenge 26, 01.07.2024 — 17.07.2024. Блог конкурса — [twoweeksgame26.blogspot.com](https://twoweeksgame26.blogspot.com).
 
 - Two Weeks Game 25, 26.01.2024 — 12.02.2024. Блог конкурса — [25.twoweeks.ru](https://25.twoweeks.ru).
 
@@ -62,7 +66,7 @@ layout: '../layouts/BasicPage.astro'
 
 - Two Weeks Game 6, 06.08.2015 — 22.08.2015. Блог конкурса — [twoweeksgame6.blogspot.com](https://twoweeksgame6.blogspot.com).
 
-- Two Weeks Game 5 (Reloaded), 13.01.2015 — 29.01.2015. Блог конкурса — [twoweeks.ru](https://web.archive.org/web/20150115120457/http://twoweeks.ru/blog/) (вебархив).
+- Two Weeks Game Reloaded, 13.01.2015 — 29.01.2015. Блог конкурса — [twoweeks.ru](https://web.archive.org/web/20150115120457/http://twoweeks.ru/blog/) (вебархив).
 
 - Two Weeks Game 4, 04.08.2014 — 18.08.2014. Страница конкурса — [titanpad.com](https://web.archive.org/web/20170504073742/https://titanpad.com/C9HP1c8Chn) (вебархив).
 
