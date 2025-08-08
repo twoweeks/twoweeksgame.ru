@@ -52,7 +52,7 @@ layout: '../layouts/BasicPage.astro'
 
 - Two Weeks Game XI, 01.01.2018 — 21.01.2018. Блог конкурса — [twg11.blogspot.com](https://twg11.blogspot.com).
 
-- Two Weeks Game X, 17.07.2017 — 03.08.2017. Блог конкурса — [twg-x.blogspot.com](https://twg-x.blogspot.com).
+- Two Weeks Game X, 17.07.2017 — 03.08.2017. Блог конкурса — [twg-x.blogspot.com](https://web.archive.org/web/20180530191138/http://twg-x.blogspot.com/) (вебархив).
 
 - Two Weeks Game 9, 23.01.2017 — 08.02.2017. Блог конкурса — [9.twoweeks.ru](https://9.twoweeks.ru).
 
