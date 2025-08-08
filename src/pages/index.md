@@ -38,7 +38,7 @@ layout: '../layouts/BasicPage.astro'
 
 - Two Weeks Game 16, 08.04.2020 — 27.04.2020. Блог конкурса — [16.twoweeks.ru](https://16.twoweeks.ru).
 
-- Two Weeks Game: Together, 01.08.2020 — 22.18.2020. Блог конкурса — [twgtogether.blogspot.com](https://twgtogether.blogspot.com).
+- Two Weeks Game: Together, 31.12.2019 — 17.01.2020. Блог конкурса — [twgtogether.blogspot.com](https://twgtogether.blogspot.com).
 
 - Two Weeks Game: Rebirth, 27.07.2019 — 15.08.2019. Блог конкурса — [twgrebirth.blogspot.com](https://twgrebirth.blogspot.com).
 
