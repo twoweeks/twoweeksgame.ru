@@ -8,11 +8,9 @@ layout: '../layouts/BasicPage.astro'
 
 Отличительной чертой конкурса является то, что он не привязан к конкретному организатору, и его может провести, по сути, кто угодно.
 
-<p class="highlight">Актуальный конкурс — <b>Two Weeks Game Challenge 28: Press Esc</b>, проходящий с 19.07.2025 по 02.08.2025. Блог конкурса размещён на сайте <a href="https://28.twoweeks.ru">28.twoweeks.ru</a>.</p>
-
 Список конкурсов:
 
-- Two Weeks Game Challenge 28: Press Esc, 19.07.2025 — 02.08.2025. Блог конкурса — [28.twoweeks.ru](https://28.twoweeks.ru).
+- Two Weeks Game Challenge 28: Press Esc, 19.07.2025 — 04.08.2025. Блог конкурса — [28.twoweeks.ru](https://28.twoweeks.ru).
 
 - Two Weeks Game 27, 24.01.2025 — 11.02.2025. Блог конкурса — [27.twoweeks.ru](https://27.twoweeks.ru).
 
