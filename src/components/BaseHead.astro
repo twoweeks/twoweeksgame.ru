@@ -19,6 +19,21 @@ const {
 	description = SITE_DESCRIPTION,
 	image = HEADER_BACKGROUND.src,
 } = Astro.props;
+
+const ldJson = {
+	"@context": "https://schema.org",
+	"@type": "Organization",
+	"name": SITE_TITLE,
+	"alternateName": "TWG",
+	"url": Astro.url,
+	"logo": image,
+	"description": SITE_DESCRIPTION,
+	"foundingDate": "2012-12-03",
+	"sameAs": [
+		"https://github.com/twoweeks",
+		"https://telegram.me/gdchat",
+	]
+}
 ---
 
 <head>
@@ -33,13 +48,16 @@ const {
 
 	<!-- Primary Meta Tags -->
 	<title>{title}</title>
-	<meta name="title" content={title} />
+	<meta name="title" content={SITE_TITLE} />
 	<meta name="description" content={description} />
 
 	<!-- Open Graph / Facebook -->
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content={Astro.url} />
-	<meta property="og:title" content={title} />
+	<meta property="og:title" content={SITE_TITLE} />
 	<meta property="og:description" content={description} />
 	<meta property="og:image" content={new URL(image, Astro.url)} />
+
+	<!-- JSON for Linked Data -->
+	<script type="application/ld+json" set:html={JSON.stringify(ldJson)} is:inline />
 </head>
