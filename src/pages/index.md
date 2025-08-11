@@ -35,13 +35,13 @@ title: Конкурс Two Weeks Game — конкурс по разработк�
 
 - Two Weeks Game: Gameover, 06.08.2020 — 27.08.2020. Блог конкурса — [twg17gameover.blogspot.com](https://twg17gameover.blogspot.com).
 
-- Two Weeks Game 16, 08.04.2020 — 27.04.2020. Блог конкурса — [16.twoweeks.ru](https://16.twoweeks.ru).
+- Two Weeks Game 16, 08.04.2020 — 24.04.2020. Блог конкурса — [16.twoweeks.ru](https://16.twoweeks.ru).
 
 - Two Weeks Game: Together, 31.12.2019 — 17.01.2020. Блог конкурса — [twgtogether.blogspot.com](https://twgtogether.blogspot.com).
 
 - Two Weeks Game: Rebirth, 27.07.2019 — 15.08.2019. Блог конкурса — [twgrebirth.blogspot.com](https://twgrebirth.blogspot.com).
 
-- Two Weeks Game 13, 07.02.2019 — 25.02.2019. Блог конкурса — [13.twoweeks.ru](https://13.twoweeks.ru).
+- Two Weeks Game 13, 04.02.2019 — 21.02.2019. Блог конкурса — [13.twoweeks.ru](https://13.twoweeks.ru).
 
 - Two Weeks Game 12, 10.07.2018 — 29.07.2018. Блог конкурса — [twg-12.blogspot.com](https://twg-12.blogspot.com).
 
@@ -55,13 +55,13 @@ title: Конкурс Two Weeks Game — конкурс по разработк�
 
 - Two Weeks Game 9, 23.01.2017 — 08.02.2017. Блог конкурса — [9.twoweeks.ru](https://9.twoweeks.ru).
 
-- Two Weeks Game 9 (Syndicate Edition), 20.01.2017 — 07.02.2017. Блог конкурса — [gd-twoweeksgame9.blogspot.com](https://gd-twoweeksgame9.blogspot.com/).
+- Two Weeks Game 9 (Syndicate Edition), 20.01.2017 — 08.02.2017. Блог конкурса — [gd-twoweeksgame9.blogspot.com](https://gd-twoweeksgame9.blogspot.com/).
 
 - Two Weeks Game 8 (GlowStick Edition), 25.07.2016 — 10.08.2016. Блог конкурса — [gd-twoweeksgame8.rhcloud.com](https://web.archive.org/web/20170130051321/https://gd-twoweeksgame8.rhcloud.com/) (вебархив).
 
 - Two Weeks Game 8, 25.07.2016 — 10.08.2016. Блог конкурса — [8.twoweeks.ru](https://8.twoweeks.ru).
 
-- Two Weeks Game 7, 04.02.2016 — 19.02.2016. Блог конкурса — [7.twoweeks.ru](https://7.twoweeks.ru).
+- Two Weeks Game 7, 03.02.2016 — 19.02.2016. Блог конкурса — [7.twoweeks.ru](https://7.twoweeks.ru).
 
 - Two Weeks Game 6, 06.08.2015 — 22.08.2015. Блог конкурса — [twoweeksgame6.blogspot.com](https://twoweeksgame6.blogspot.com).
 
