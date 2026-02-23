@@ -21,19 +21,16 @@ const {
 } = Astro.props;
 
 const ldJson = {
-	"@context": "https://schema.org",
-	"@type": "Organization",
-	"name": SITE_TITLE,
-	"alternateName": "TWG",
-	"url": Astro.url,
-	"logo": image,
-	"description": SITE_DESCRIPTION,
-	"foundingDate": "2012-12-03",
-	"sameAs": [
-		"https://github.com/twoweeks",
-		"https://telegram.me/gdchat",
-	]
-}
+	'@context': 'https://schema.org',
+	'@type': 'Organization',
+	name: SITE_TITLE,
+	alternateName: 'TWG',
+	url: Astro.url,
+	logo: image,
+	description: SITE_DESCRIPTION,
+	foundingDate: '2012-12-03',
+	sameAs: ['https://github.com/twoweeks', 'https://telegram.me/gdchat'],
+};
 ---
 
 <head>
@@ -59,5 +56,9 @@ const ldJson = {
 	<meta property="og:image" content={new URL(image, Astro.url)} />
 
 	<!-- JSON for Linked Data -->
-	<script type="application/ld+json" set:html={JSON.stringify(ldJson)} is:inline />
+	<script
+		type="application/ld+json"
+		set:html={JSON.stringify(ldJson)}
+		is:inline
+	/>
 </head>

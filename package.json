@@ -1,23 +1,24 @@
 {
-  "name": "@twoweeks/twoweeksgame.ru",
-  "type": "module",
-  "version": "0.0.1",
-  "private": true,
-  "license": "MIT",
-  "scripts": {
-    "dev": "astro dev",
-    "start": "astro dev",
-    "build": "astro build",
-    "preview": "astro preview",
-    "astro": "astro",
-    "prettier": "prettier -w astro.config.mjs src"
-  },
-  "devDependencies": {
-    "@astrojs/mdx": "4.3.0",
-    "@astrojs/rss": "4.0.12",
-    "@astrojs/sitemap": "3.4.1",
-    "astro": "5.10.2",
-    "prettier": "3.6.2",
-    "sass": "1.89.2"
-  }
+	"name": "@twoweeks/twoweeksgame.ru",
+	"type": "module",
+	"version": "0.0.1",
+	"private": true,
+	"license": "MIT",
+	"scripts": {
+		"dev": "astro dev",
+		"start": "astro dev",
+		"build": "astro build",
+		"preview": "astro preview",
+		"astro": "astro",
+		"prettier": "prettier --write ."
+	},
+	"devDependencies": {
+		"@astrojs/mdx": "4.3.13",
+		"@astrojs/rss": "4.0.15",
+		"@astrojs/sitemap": "3.7.0",
+		"@astrojs/ts-plugin": "^1.10.6",
+		"astro": "5.17.3",
+		"prettier": "3.8.1",
+		"prettier-plugin-astro": "^0.14.1"
+	}
 }
