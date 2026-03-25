@@ -1,8 +1,8 @@
 # Two Weeks Game
 
-> Two Weeks Game (TWG, твг) — community‑driven video‑game jam on the /gd/ board of Dvach (2ch.su) since 2012. Participants submit a playable prototype ("demo") at the end of first week, then polish it into a final build by the end of second week.
+> Two Weeks Game (TWG, твг) — community‑driven video‑game jam since 2012. Participants submit a playable prototype ("demo") at the end of first week, then polish it into a final build by the end of second week.
 
-Two Weeks Game is organized by volunteers (anyone on /gd/ can host), and runs twice a year (summer and winter). Over the years, TWG has grown in scale and lore, spawning sub‑contests, and a wealth of memes.
+Two Weeks Game is organized by volunteers, and runs twice a year (summer and winter). Over the years, TWG has grown in scale and lore, spawning sub‑contests, and a wealth of memes.
 
 ## Key Facts & Statistics
 
