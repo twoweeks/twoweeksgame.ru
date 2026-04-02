@@ -12,7 +12,7 @@ export interface Props {
 	image?: string;
 }
 
-const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+const canonicalURL = new URL(Astro.url.pathname.replace(/index\.html$/, ''), Astro.site);
 
 const {
 	title = SITE_TITLE,
@@ -25,7 +25,7 @@ const ldJson = {
 	'@type': 'Organization',
 	name: SITE_TITLE,
 	alternateName: 'TWG',
-	url: Astro.url,
+	url: Astro.url.origin,
 	logo: image,
 	description: SITE_DESCRIPTION,
 	foundingDate: '2012-12-03',
@@ -50,10 +50,10 @@ const ldJson = {
 
 	<!-- Open Graph / Facebook -->
 	<meta property="og:type" content="website" />
-	<meta property="og:url" content={Astro.url} />
+	<meta property="og:url" content={Astro.url.href.replace(/index\.html$/, '')} />
 	<meta property="og:title" content={SITE_TITLE} />
 	<meta property="og:description" content={description} />
-	<meta property="og:image" content={new URL(image, Astro.url)} />
+	<meta property="og:image" content={new URL(image, Astro.url.origin)} />
 
 	<!-- JSON for Linked Data -->
 	<script
